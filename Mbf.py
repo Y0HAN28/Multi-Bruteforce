@@ -309,7 +309,7 @@ def idteman():
 	else:
 		return menu()
 def menu():
-     .-""""""""-.
+     
     / -   -       \
    |  .-. .-     |
    |  \o| |o   (
